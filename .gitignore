@@ -1,0 +1,4 @@
+$ cat .gitignore
+/log
+/out
+/src/WorkStud
